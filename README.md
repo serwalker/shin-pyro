@@ -18,5 +18,10 @@
 ## JASA BOT [SHIN](https://t.me/Oh_shin)
 
 ## Credit
-• [SHIN](t.me/Oh_shin)
+
+• [SHIN](https://github.com/serwalker/shin-pyro) shin-pyro 
+
+Telegram 
+
+[ t.me/Oh_shin ]
 
