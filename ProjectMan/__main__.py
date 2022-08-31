@@ -12,8 +12,8 @@ from pyrogram import idle
 from uvloop import install
 
 from config import BOT_VER
-from shin import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bots
-from shin.helpers.misc import git, heroku
+from ProjectMan import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bots
+from ProjectMan.helpers.misc import git, heroku
 
 MSG_ON = """
 ☑️ **shin_pyro Berhasil Di Aktifkan.**
